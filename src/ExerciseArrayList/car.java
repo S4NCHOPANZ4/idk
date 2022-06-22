@@ -1,3 +1,5 @@
+package ExerciseArrayList;
+
 public class car {
     String brand;
     String model;

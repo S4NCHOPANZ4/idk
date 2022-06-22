@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package ExerciseArrayList;
+
 import java.util.*;
 
 public class Q3 {

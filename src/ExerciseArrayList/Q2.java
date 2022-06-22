@@ -1,3 +1,5 @@
+package ExerciseArrayList;
+
 import javax.naming.NamingEnumeration;
 import java.util.ArrayList;
 import java.util.List;
